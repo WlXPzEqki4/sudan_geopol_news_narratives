@@ -1,0 +1,293 @@
+{
+    "articles": {
+      "1": {
+        "id": "1",
+        "url": "https://www.aljazeera.com/news/2025/3/6/sudan-files-case-against-uae-at-top-un-court-over-complicity-in-genocide",
+        "title": "Sudan files case against UAE at top UN court over ‘complicity in genocide’",
+        "publication": "Al Jazeera",
+        "publication_date": "6 March 2025"
+      },
+      "2": {
+        "id": "2",
+        "url": "https://www.bbc.com/news/articles/c3w1nzpg5dgo",
+        "title": "Sudan war: UAE rejects accusations of fuelling conflict",
+        "publication": "BBC",
+        "publication_date": null
+      },
+      "3": {
+        "id": "3",
+        "url": "https://foreignpolicy.com/2025/03/17/sudan-icj-genocide-case-uae-rsf-support/",
+        "title": "Sudan Takes the UAE to Court for Backing a Brutal Militia",
+        "publication": "Foreign Policy",
+        "publication_date": "17 March 2025"
+      },
+      "4": {
+        "id": "4",
+        "url": "https://www.reuters.com/world/sudan-launches-case-against-united-arab-emirates-world-court-2025-03-06/",
+        "title": "Sudan launches case against United Arab Emirates at World Court",
+        "publication": "Reuters",
+        "publication_date": "6 March 2025"
+      },
+      "5": {
+        "id": "5",
+        "url": "https://religionunplugged.com/news/2025/3/11/sudan-takes-uae-to-world-court-over-alleged-complicity-in-genocide",
+        "title": "Sudan Takes UAE to World Court Over Alleged Complicity in Genocide",
+        "publication": "Religion Unplugged",
+        "publication_date": "11 March 2025"
+      },
+      "6": {
+        "id": "6",
+        "url": "https://globalvoices.org/2025/03/15/another-test-for-international-justice-sudan-takes-the-uae-to-the-icj-over-its-complicity-in-genocide/",
+        "title": "Another test for international justice: Sudan takes the UAE to the ICJ over its complicity in genocide",
+        "publication": "Global Voices",
+        "publication_date": "19 March 2025"
+      },
+      "7": {
+        "id": "7",
+        "url": "https://edition.cnn.com/2025/03/07/middleeast/sudan-uae-icj-intl-latam/index.html",
+        "title": "Sudan files case against UAE at International Court of Justice, accusing it of supporting rival forces | CNN",
+        "publication": "CNN",
+        "publication_date": "6 March 2024"
+      },
+      "8": {
+        "id": "8",
+        "url": "https://apnews.com/article/sudan-war-icj-uae-8b27cb3b8e4fef5b05a6b45084c967c7",
+        "title": "Sudan accuses UAE of supporting rival forces in its civil war and files case at world court | AP News",
+        "publication": "AP News",
+        "publication_date": "6 March 2025"
+      },
+      "9": {
+        "id": "9",
+        "url": "https://www.middleeasteye.net/news/sudan-launches-case-against-uae-icj-over-complicity-genocide",
+        "title": "Sudan launches case against UAE at ICJ over 'complicity in genocide'",
+        "publication": "Middle East Eye",
+        "publication_date": "6 March 2025"
+      },
+      "10": {
+        "id": "10",
+        "url": "https://www.asil.org/ILIB/sudan-institutes-proceedings-against-uae-icj",
+        "title": "Sudan Institutes Proceedings Against United Arab Emirates Before International Court of Justice - ASIL",
+        "publication": "ASIL",
+        "publication_date": null
+      },
+      "11": {
+        "id": "11",
+        "url": "https://www.theafricareport.com/378537/explainer-why-sudan-is-taking-the-uae-to-international-court-of-justice/",
+        "title": "Explainer: Why Sudan is taking the UAE to the International Court of Justice",
+        "publication": "The Africa Report",
+        "publication_date": "7 March 2025"
+      },
+      "12": {
+        "id": "12",
+        "url": "https://www.france24.com/en/live-news/20250308-what-is-the-uae-s-involvement-in-war-torn-sudan",
+        "title": "What is the UAE's involvement in war-torn Sudan?",
+        "publication": "France 24",
+        "publication_date": null
+      },
+      "13": {
+        "id": "13",
+        "url": "https://insights.doughtystreet.co.uk/post/102k4a2/the-genocide-convention-before-the-world-court-again",
+        "title": "The Genocide Convention before the World Court again",
+        "publication": "Insights",
+        "publication_date": "6 March 2025"
+      },
+      "14": {
+        "id": "14",
+        "url": "https://www.forbes.com/sites/ewelinaochab/2025/03/09/sudan-takes-uae-to-world-court-over-alleged-complicity-in-genocide/",
+        "title": "Sudan Takes UAE To World Court Over Alleged Complicity In Genocide",
+        "publication": "Forbes",
+        "publication_date": null
+      },
+      "15": {
+        "id": "15",
+        "url": "https://www.nytimes.com/2025/03/06/world/africa/sudan-genocide-icj-uae.html",
+        "title": "Sudan Accuses U.A.E. of Fueling Genocide in Lawsuit at World Court",
+        "publication": "New York Times",
+        "publication_date": "6 March 2025"
+      },
+      "16": {
+        "id": "16",
+        "url": "https://www.genocidewatch.com/single-post/sudan-files-genocide-case-against-uae-at-icj",
+        "title": "Sudan files genocide case against UAE at ICJ - Genocide Watch",
+        "publication": "Genocide Watch",
+        "publication_date": null
+      },
+      "17": {
+        "id": "17",
+        "url": "https://www.aa.com.tr/en/africa/sudan-takes-united-arab-emirates-to-icj-for-genocide-support-in-war-torn-country/3502216",
+        "title": "Sudan takes United Arab Emirates to ICJ for 'genocide support' in war-torn country",
+        "publication": "AA",
+        "publication_date": "7 March 2025"
+      },
+      "18": {
+        "id": "18",
+        "url": "https://www.semafor.com/article/03/07/2025/sudan-launches-case-against-uae-at-the-international-court-of-justice",
+        "title": "Sudan launches case against UAE at the International Court of Justice",
+        "publication": "Semafor",
+        "publication_date": "7 March 2025"
+      },
+      "19": {
+        "id": "19",
+        "url": "https://www.jurist.org/news/2025/03/sudan-sues-uae-for-complicit-in-rsf-genocide-in-west-darfur/",
+        "title": "Sudan sues UAE for complicit in RSF genocide in West Darfur - JURIST - Professional Legal News & Commentary",
+        "publication": "JURIST",
+        "publication_date": "8 March 2025"
+      },
+      "20": {
+        "id": "20",
+        "url": "https://www.africa-confidential.com/article/id/15391/burhan-takes-abu-dhabi-to-international-court-of-justice-on-genocide-charges",
+        "title": "Burhan takes Abu Dhabi to International Court of Justice on genocide charges",
+        "publication": "Africa Confidential",
+        "publication_date": "6 March 2025"
+      },
+      "21": {
+        "id": "21",
+        "url": "https://www.voaafrica.com/a/sudan-defends-taking-uae-to-icj-for-allegedly-arming-rsf/8002061.html",
+        "title": "Sudan Defends Taking UAE to ICJ for Allegedly Arming RSF",
+        "publication": "VOA Africa",
+        "publication_date": "7 March 2025"
+      },
+      "22": {
+        "id": "22",
+        "url": "https://www.bbc.com/audio/play/p0kxhrlw",
+        "title": "BBC World Service - Newscast, Sudan accuses UAE of backing genocide",
+        "publication": "BBC World Service",
+        "publication_date": null
+      },
+      "23": {
+        "id": "23",
+        "url": "https://www.rfi.fr/en/africa/20250307-sudan-files-case-against-uae-at-un-court-over-complicity-in-genocide",
+        "title": "Sudan files case against UAE at UN court over 'complicity in genocide'",
+        "publication": "RFI",
+        "publication_date": null
+      },
+      "24": {
+        "id": "24",
+        "url": "https://opiniojuris.org/2025/03/14/art-ix-reservations-to-the-genocide-convention-are-here-to-stay-a-response-to-diamond/",
+        "title": "Art. IX Reservations to the Genocide Convention Are Here to Stay? A Response to Diamond - Opinio Juris",
+        "publication": "Opinio Juris",
+        "publication_date": "14 March 2025"
+      },
+      "25": {
+        "id": "25",
+        "url": "https://sudantribune.com/article298220/",
+        "title": "Sudan files case against UAE at UN court over Darfur genocide",
+        "publication": "Sudan Tribune",
+        "publication_date": "7 March 2025"
+      },
+      "26": {
+        "id": "26",
+        "url": "https://www.thedailystar.net/news/world/news/sudan-files-case-against-uae-icj-3841446",
+        "title": "Sudan files case against UAE at ICJ",
+        "publication": "The Daily Star",
+        "publication_date": "7 March 2025"
+      },
+      "27": {
+        "id": "27",
+        "url": "https://newscentral.africa/sudan-takes-uae-to-icj-over-alleged-support-for-rsf-in-civil-war/",
+        "title": "Sudan Takes UAE to ICJ Over Alleged Support for RSF in Civil War - News Central TV",
+        "publication": "News Central TV",
+        "publication_date": "7 March 2025"
+      },
+          "28": {
+            "id": "28",
+            "url": "https://worldpeacefoundation.org/blog/sudan-genocide-case/",
+            "title": "Sudan Genocide Case: Legal Implications of the ICJ Filing Against UAE",
+            "publication": "World Peace Foundation",
+            "publication_date": "12 March 2025"
+          },
+          "29": {
+            "id": "29",
+            "url": "https://opiniojuris.org/2025/03/18/the-jus-cogens-nature-of-the-prohibition-of-genocide-in-sudan-v-uae-a-new-case-the-same-old-omission/",
+            "title": "The Jus Cogens Nature of the Prohibition of Genocide in Sudan v. UAE: A New Case, the Same Old Omission",
+            "publication": "Opinio Juris",
+            "publication_date": "18 March 2025"
+          },
+          "30": {
+            "id": "30",
+            "url": "https://www.dw.com/en/could-sudan-be-split-into-two-countries/a-71923002",
+            "title": "Could Sudan be split into two countries?",
+            "publication": "Deutsche Welle",
+            "publication_date": "14 March 2025"
+          },
+          "31": {
+            "id": "31",
+            "url": "https://www.juancole.com/2025/03/sudan-justice-genocide.html",
+            "title": "Sudan Takes UAE to International Court of Justice Over Genocide Complicity",
+            "publication": "Juan Cole",
+            "publication_date": "8 March 2025"
+          },
+          "32": {
+            "id": "32",
+            "url": "https://www.middleeasteye.net/news/uk-enrages-sudanese-army-inviting-uae-london-peace-conference",
+            "title": "UK enrages Sudanese army by inviting UAE to London peace conference",
+            "publication": "Middle East Eye",
+            "publication_date": "15 March 2025"
+          },
+          "33": {
+            "id": "33",
+            "url": "https://www.newagebd.net/post/opinion/260271/prospect-of-icj-masalit-genocide-case",
+            "title": "Prospect of ICJ Masalit genocide case",
+            "publication": "New Age",
+            "publication_date": "10 March 2025"
+          },
+          "34": {
+            "id": "34",
+            "url": "https://www.tbsnews.net/world/sudan-files-case-against-uae-top-un-court-over-complicity-genocide-1086406",
+            "title": "Sudan files case against UAE at top UN court over 'complicity in genocide'",
+            "publication": "TBS News",
+            "publication_date": "7 March 2025"
+          },
+          "35": {
+            "id": "35",
+            "url": "https://www.newarab.com/news/sudan-vs-uae-icj-why-darfur-genocide-claims-are-focus",
+            "title": "Sudan vs UAE at ICJ: Why Darfur genocide claims are focus",
+            "publication": "The New Arab",
+            "publication_date": "9 March 2025"
+          },
+          "36": {
+            "id": "36",
+            "url": "https://www.newarab.com/news/sudan-files-case-against-uae-icj-complicity-genocide",
+            "title": "Sudan files case against UAE at ICJ over 'complicity in genocide'",
+            "publication": "The New Arab",
+            "publication_date": "6 March 2025"
+          },
+          "37": {
+            "id": "37",
+            "url": "https://countervortex.org/blog/sudan-sues-uae-for-complicity-in-darfur-genocide/",
+            "title": "Sudan sues UAE for complicity in Darfur genocide",
+            "publication": "CounterVortex",
+            "publication_date": "8 March 2025"
+          },
+          "38": {
+            "id": "38",
+            "url": "https://nation.africa/kenya/news/africa/sudan-s-war-what-s-driving-uae-and-saudi-arabia-interests--4966818",
+            "title": "Sudan's war: What's driving UAE and Saudi Arabia interests?",
+            "publication": "Nation Africa",
+            "publication_date": "11 March 2025"
+          },
+          "39": {
+            "id": "39",
+            "url": "https://www.alestiklal.net/en/article/uae-backed-rsf-militia-s-genocide-against-the-masalit-tribe-in-darfur",
+            "title": "UAE-backed RSF militia's genocide against the Masalit tribe in Darfur",
+            "publication": "Alestiklal",
+            "publication_date": "13 March 2025"
+          },
+          "40": {
+            "id": "40",
+            "url": "https://www.watanserb.com/en/2025/03/17/uaes-secret-washington-talks-tahnoun-bin-zayed-negotiates-high-stakes-deals-on-sudan-syria-and-gaza/",
+            "title": "UAE's secret Washington talks: Tahnoun bin Zayed negotiates high-stakes deals on Sudan, Syria and Gaza",
+            "publication": "Watan Serb",
+            "publication_date": "17 March 2025"
+          }
+    }
+  }
+  
+
+
+
+
+
+
+
+  
