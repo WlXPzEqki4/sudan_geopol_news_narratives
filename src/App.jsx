@@ -14,7 +14,7 @@ import ArticleExplorer from './components/ArticleExplorer';
 import ArticleExplorer_2 from './components/ArticleExplorer_2';
 import NarrativeDashboard from './components/NarrativeDashboard';
 import ThematicNetworkAnalysis from './components/ThematicNetworkAnalysis';
-
+import InteractiveNetworkAnalysis from './components/InteractiveNetworkAnalysis';
 
 
 // import BatchProcessingComparison from './components/BatchProcessingComparison';
@@ -59,8 +59,8 @@ function App() {
       <ArticleExplorer_2 />
       <NarrativeDashboard />
       <ThematicNetworkAnalysis />
+      <InteractiveNetworkAnalysis />
 
-      
 
       {/* <BatchProcessingComparison /> */}
       {/* <BatchProcessingComparison2 /> */}
