@@ -104,7 +104,7 @@ const ArticleExplorer = () => {
 
   // Extract publication date from article text when available
   const extractPublicationDate = (article) => {
-    if (!article.cleaned_text_content) return "Publication date not found";
+    if (!article.cleaned_text_content) return "";
     
     // Look for common date patterns in the text
     const dateLines = article.cleaned_text_content.split('\n').filter(line => 
@@ -120,7 +120,7 @@ const ArticleExplorer = () => {
       return dateLines[0].trim();
     }
     
-    return "Publication date not found";
+    return "";
   };
 
   // Toggle sort direction
@@ -130,7 +130,9 @@ const ArticleExplorer = () => {
 
   // Extract byline/author from article
   const extractByline = (article) => {
-    if (!article.cleaned_text_content) return "Unknown author";
+    // if (!article.cleaned_text_content) return "Unknown author";
+    if (!article.cleaned_text_content) return "";
+
     
     const lines = article.cleaned_text_content.split('\n');
     
@@ -154,7 +156,7 @@ const ArticleExplorer = () => {
       }
     }
     
-    return "Unknown author";
+    return "";
   };
 
   // Toggle expanded article

@@ -10,6 +10,10 @@ import React from 'react';
 // import Template_9 from './components/Template_9';
 // import Template_10 from './components/Template_10';
 
+
+
+import Hero from './components/Hero';
+
 import ArticleExplorer from './components/ArticleExplorer';
 import ArticleExplorer_2 from './components/ArticleExplorer_2';
 import NarrativeDashboard from './components/NarrativeDashboard';
@@ -53,6 +57,8 @@ function App() {
       {/* <Template_9 /> */}
 
       {/* <Template_10 /> */}
+
+      <Hero />
 
       
       <ArticleExplorer />

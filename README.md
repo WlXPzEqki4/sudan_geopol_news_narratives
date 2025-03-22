@@ -46,6 +46,22 @@ git push
 
 
 
+git remote -v
+
+
+rm -rf .git
+
+
+git init
+
+git add .
+
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/WlXPzEqki4/sudan_geopol_news_narratives.git
+
+git push -u origin main
+
 
 
 
