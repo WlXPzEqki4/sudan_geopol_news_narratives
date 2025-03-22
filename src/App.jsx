@@ -13,6 +13,7 @@ import React from 'react';
 
 
 import Hero from './components/Hero';
+import Overview from './components/Overview';
 
 import ArticleExplorer from './components/ArticleExplorer';
 import ArticleExplorer_2 from './components/ArticleExplorer_2';
@@ -59,8 +60,8 @@ function App() {
       {/* <Template_10 /> */}
 
       <Hero />
+      <Overview />
 
-      
       <ArticleExplorer />
       <ArticleExplorer_2 />
       <NarrativeDashboard />
